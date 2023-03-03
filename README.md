@@ -1,1 +1,1 @@
-# I am a software engineer at alx school.
+#  software engineer at alx school.
